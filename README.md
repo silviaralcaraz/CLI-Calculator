@@ -1,7 +1,6 @@
 # CLI-Calculator
 
-A continuación se describen tanto los requisitos del sistema como las acciones 
-a realizar para compilar y ejecutar el programa.
+Simple command line interface made using Flex and Bison to understand and execute some mathematics operations.
 
 ## Requirements
 
@@ -36,7 +35,7 @@ At this point, the executable file "p3Compiladores" will have been generated.
 
 ## Program help
 
-### Available commands:
+### Available commands
 
 - **HELP/help**:
 	shows this help message.
