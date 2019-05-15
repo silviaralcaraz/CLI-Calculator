@@ -36,22 +36,22 @@ At this point, the executable file "p3Compiladores" will have been generated.
 
 ## Program help
 
-**Available commands:**
+### Available commands:
 
-- HELP/help:
+- **HELP/help**:
 	shows this help message.
 
-- FULLHELP/fullhelp:
+- **FULLHELP/fullhelp**:
 	shows all the information about the program usage.
-- LOAD/load: 
+- **LOAD/load**: 
 	load a file with expresions to analyze.
-- WORKSPACE/workspace: 
+- **WORKSPACE/workspace**: 
 	prints the workspace, in other words, the variables in use in that moment.
-- CONSTANTES/constantes: 
+- **CONSTANTES/constantes**: 
 	prints the available constants.
-- FUNCIONES/funciones: 
+- **FUNCIONES/funciones**: 
 	prints the available functions. 
-- REINICIAR/reiniciar: 
+- **REINICIAR/reiniciar**: 
 	restarts the workspace (deletes all the variables in use).
-- EXIT/exit: 
+- **EXIT/exit**: 
 	to finish the program.
